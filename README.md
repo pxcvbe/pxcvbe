@@ -17,7 +17,7 @@ Through internship and bootcamp experience, I’ve learned to apply clean code p
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap,astro,fastapi,alpinejs,jquery,htmx,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tailwind,bootstrap,astro,fastapi,alpinejs,jquery,htmx,vite" />
 </p>
 
 ### 🗄️ Databases
@@ -27,7 +27,7 @@ Through internship and bootcamp experience, I’ve learned to apply clean code p
 
 ### 🛠️ Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,bash,git,github,gitlab,postman,idea,pycharm,jenkins,firebase,vercel,selenium" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,bash,git,github,gitlab,postman,idea,pycharm,jenkins,firebase,vercel,selenium" />
 </p>
 <div style="display: flex; gap: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" width="45" height="45" />
