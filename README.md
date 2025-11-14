@@ -12,7 +12,7 @@ Through internship and bootcamp experience, I’ve learned to apply clean code p
 
 ### 🧠 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,lua,py,go,java,js,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,lua,py,java,js,typescript,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
