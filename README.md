@@ -59,6 +59,9 @@ Through internship and bootcamp experience, I’ve learned to apply clean code p
     <img src="https://img.shields.io/badge/Instagram-fd5c63?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pxcvbe)
 <!------------------------------------------------------------------------------------------------------------------
 pxcvbe/pxcvbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
