@@ -12,12 +12,12 @@ Through internship and bootcamp experience, I’ve learned to apply clean code p
 
 ### 🧠 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,lua,py,java,js,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tailwind,bootstrap,fastapi,jquery,htmx,vite" />
+  <img src="https://skillicons.dev/icons?i=react,spring,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
