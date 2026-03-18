@@ -25,7 +25,7 @@ Through internship and bootcamp experience, I’ve learned to apply clean code p
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### • Tools •
+### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,bash,git,github,gitlab,postman,idea,jenkins,firebase,vercel,selenium" />
 </p>
